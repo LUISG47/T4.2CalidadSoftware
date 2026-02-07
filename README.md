@@ -1,5 +1,5 @@
-# T3CalidadSoftware
-T3CalidadSoftware
+# T4.2 Calidad de Software
+T4.2 Calidad de Software
 
 
 # Actividad 4.2 - Ejercicios de Programación con Estándares Industriales
@@ -16,13 +16,15 @@ Este repositorio contiene la solución a tres problemas de programación desarro
 2. **`convertNumbers.py`**: Convierte una lista de números enteros a sus equivalentes en sistemas Binario y Hexadecimal.
 3. **`wordCount.py`**: Identifica palabras distintas y contabiliza su frecuencia de aparición en un texto.
 
-## 🛠️ Requerimientos Técnicos Cumplidos
+## 🛠️ Requerimientos Técnicos 
+
 * **Algoritmos Básicos**: Todos los cálculos estadísticos y de conversión de base fueron implementados manualmente, sin utilizar librerías externas o funciones integradas de cálculo (como `statistics` o `bin()`).
 * **Manejo de Errores**: Los programas detectan datos inválidos en los archivos de entrada, notifican el error en consola y continúan con la ejecución del resto de los datos.
 * **Salida de Resultados**: Los resultados se imprimen en la terminal y se guardan automáticamente en archivos de texto específicos (`StatisticsResults.txt`, `ConvertionResults.txt`, `WordCountResults.txt`).
 * **Medición de Tiempo**: Cada programa registra e incluye el tiempo total de ejecución al final de los resultados.
 
 ## 🚀 Instrucciones de Ejecución
+
 Para ejecutar cualquiera de los programas, utiliza la terminal y pasa como argumento el nombre del archivo que contiene los datos:
 
 ```bash
