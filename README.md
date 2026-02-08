@@ -12,15 +12,21 @@ Este repositorio contiene la solución a tres problemas de programación desarro
 * Identificar estándares industriales (PEP-8) y el uso de herramientas de análisis estático (PyLint).
 
 ## 📂 Contenido del Repositorio
+
 1. CARPETA P1
 
-   **`computeStatistics.py`**: Calcula media, mediana, moda, varianza y desviación estándar a partir de un archivo de datos, los archivos de programación 
+    **`computeStatistics.py`**: Calcula media, mediana, moda, varianza y desviación estándar a partir de un archivo de datos, los archivos de programación
+
 3. CARPETA P2
 
-   **`convertNumbers.py`**: Convierte una lista de números enteros a sus equivalentes en sistemas Binario y Hexadecimal.
-5. CARPETA P3
+    **`convertNumbers.py`**: Convierte una lista de números enteros a sus equivalentes en sistemas Binario y Hexadecimal.
 
-   **`wordCount.py`**: Identifica palabras distintas y contabiliza su frecuencia de aparición en un texto.
+3. CARPETA P3 
+
+    **`wordCount.py`**: Identifica palabras distintas y contabiliza su frecuencia de aparición en un texto.
+
+
+Cada carpeta trae además su carpeta de **RESULTADOS** en los cuales vienen los archivos de texto generados después de la ejecución, además de capturas de pantalla de las ejecuciones en la terminal con el despliegue de los resultados según la rúbrica.
 
 ## 🛠️ Requerimientos Técnicos 
 
