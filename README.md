@@ -30,6 +30,7 @@ Cada carpeta trae además su carpeta de **RESULTADOS** en los cuales vienen los 
 
 ## 🛠️ Requerimientos Técnicos 
 
+* **Verificación Pylint 10.00/10**: Todos los códigos siguen el estándar de codificación PEP-8 con verificación Pylint 10.00/10
 * **Algoritmos Básicos**: Todos los cálculos estadísticos y de conversión de base fueron implementados manualmente, sin utilizar librerías externas o funciones integradas de cálculo (como `statistics` o `bin()`).
 * **Manejo de Errores**: Los programas detectan datos inválidos en los archivos de entrada, notifican el error en consola y continúan con la ejecución del resto de los datos.
 * **Salida de Resultados**: Los resultados se imprimen en la terminal y se guardan automáticamente en archivos de texto específicos (`StatisticsResults.txt`, `ConvertionResults.txt`, `WordCountResults.txt`).
