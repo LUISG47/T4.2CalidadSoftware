@@ -13,10 +13,13 @@ Este repositorio contiene la solución a tres problemas de programación desarro
 
 ## 📂 Contenido del Repositorio
 1. CARPETA P1
+
    **`computeStatistics.py`**: Calcula media, mediana, moda, varianza y desviación estándar a partir de un archivo de datos, los archivos de programación 
-2. CARPETA P2
+3. CARPETA P2
+
    **`convertNumbers.py`**: Convierte una lista de números enteros a sus equivalentes en sistemas Binario y Hexadecimal.
-3. CARPETA P3
+5. CARPETA P3
+
    **`wordCount.py`**: Identifica palabras distintas y contabiliza su frecuencia de aparición en un texto.
 
 ## 🛠️ Requerimientos Técnicos 
