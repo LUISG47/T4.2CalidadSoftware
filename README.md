@@ -1,5 +1,8 @@
 # T4.2 Calidad de Software
+
 T4.2 Calidad de Software
+A01105695
+José Luis Lorenzo Augusto Galíndez Vences
 
 
 # Actividad 4.2 - Ejercicios de Programación con Estándares Industriales
